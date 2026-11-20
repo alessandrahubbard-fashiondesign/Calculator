@@ -7,3 +7,8 @@ document.getElementById("clear").onclick =function write1()
 { 
     document.getElementById("screen").innerHTML='';
 }
+
+document.getElementById("num2").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='2';
+}
