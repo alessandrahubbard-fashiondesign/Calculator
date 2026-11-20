@@ -22,3 +22,58 @@ document.getElementById("num4").onclick =function write1()
 { 
     document.getElementById("screen").innerHTML='4';
 }
+
+document.getElementById("num5").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='5';
+}
+
+document.getElementById("num6").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='6';
+}
+
+document.getElementById("num7").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='7';
+}
+
+document.getElementById("num8").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='8';
+}
+
+document.getElementById("num9").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='9';
+}
+
+document.getElementById("num0").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='0';
+}
+
+document.getElementById("equals").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='=';
+}
+
+document.getElementById("add").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='+';
+}
+
+document.getElementById("subtract").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='-';
+}
+
+document.getElementById("multiply").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='*';
+}
+
+document.getElementById("divide").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='/';
+}
