@@ -17,3 +17,8 @@ document.getElementById("num3").onclick =function write1()
 { 
     document.getElementById("screen").innerHTML='3';
 }
+
+document.getElementById("num4").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='4';
+}
