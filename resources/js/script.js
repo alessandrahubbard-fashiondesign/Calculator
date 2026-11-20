@@ -12,3 +12,8 @@ document.getElementById("num2").onclick =function write1()
 { 
     document.getElementById("screen").innerHTML='2';
 }
+
+document.getElementById("num3").onclick =function write1() 
+{ 
+    document.getElementById("screen").innerHTML='3';
+}
